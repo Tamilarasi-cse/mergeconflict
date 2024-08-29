@@ -1,2 +1,2 @@
-city:None
-Name:None
+city:Bangalore
+Name:Varanya
